@@ -1,0 +1,32 @@
+# VS 编译目录
+x64/
+Debug/
+Release/
+
+# VS 编译文件
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+*.idb
+*.ipch
+*.suo
+*.user
+
+# 可执行文件
+*.out
+*.app
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# C 编译文件
+*.o
+*.a
+*.so
+*.dll
+
+# 其他
+*.vcxproj.user
