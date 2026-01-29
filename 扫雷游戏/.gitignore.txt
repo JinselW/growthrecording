@@ -1,0 +1,23 @@
+# VS 编译文件
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+
+# 可执行文件
+*.out
+*.app
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 其他
+*.o
+*.a
+*.so
+*.dll
