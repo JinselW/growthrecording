@@ -30,3 +30,6 @@ Thumbs.db
 
 # 其他
 *.vcxproj.user
+
+# Visual Studio 文件夹
+.vs/
